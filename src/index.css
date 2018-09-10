@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  /*font-family: sans-serif;*/
+  /*font-family: 'Overpass', sans-serif;*/
+  font-family: 'Univers-condensed';
+  /* transform: translate(0, 335px) scale(.5); */
+  /*transform: translate(0, 170px) scale(.5);*/
+}
+
+/*
+@media screen and (max-width: 468px){
+  body {
+    background-color: rgb(50,50,50) !important;
+  }
+}
+*/
+
+/* body>video {
+  background-color: grey !important;
+} */
+
+input {
+  outline: none;
+}
+
+button:active, button:focus {
+  outline: none;
+}
+button::-moz-focus-inner {
+  border: 0;
+}

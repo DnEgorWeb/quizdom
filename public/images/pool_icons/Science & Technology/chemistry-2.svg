@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 15.1 30" style="enable-background:new 0 0 15.1 30;" xml:space="preserve">
+<style type="text/css">
+	.{{$ctrl.id}}{fill:{{$ctrl.fill}};}
+</style>
+<g>
+	<path ng-class="{ '{{$ctrl.id}}': true}" d="M7.6,27.2c1.8,0,3.3-1.5,3.3-3.4v-9.4H4.2v9.4C4.2,25.7,5.7,27.2,7.6,27.2z"/>
+	<path ng-class="{ '{{$ctrl.id}}': true}" d="M14.2,0H1C0.4,0,0,0.4,0,1v1.1c0,0.5,0.4,1,1,1h0.4v20.8c0,3.4,2.8,6.2,6.2,6.2c3.4,0,6.2-2.8,6.2-6.2V3.1h0.4
+		c0.5,0,1-0.4,1-1V1C15.1,0.4,14.7,0,14.2,0z M12,23.8c0,2.4-2,4.4-4.4,4.4c-2.4,0-4.4-2-4.4-4.4V3.1H12V23.8z"/>
+</g>
+</svg>

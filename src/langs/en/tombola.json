@@ -1,0 +1,10 @@
+﻿{
+  "tombola_tombola"        : "Tombola",
+  "tombola_tombolaInfo"    : "Tombola Info",
+  "tombola_myLoose"        : "My loose",
+  "tombola_chanceOfWinning": "Chance of winning",
+  "tombola_looseInGame"    : "Loose in the Game",
+  "tombola_prev"           : "Prev",
+  "tombola_next"           : "NEXT",
+  "tombola_clock"          : "Clock"
+}

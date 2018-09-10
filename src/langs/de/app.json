@@ -1,0 +1,9 @@
+{
+  "app_offline"                                  : "Offline",
+  "app_connectionFailed"                         : "Verbindung fehlgeschlagen",
+  "app_pleaseCheckYourInternetConnectionAndRetry": "Bitte überprüfe Deine Internetverbindung und versuche es erneut",
+  "app_retry"                                    : "Wiederholen",
+  "app_connectionClose"                          : "Verbindung schließen",
+  "app_pleaseRestartConnection"                  : "Bitte starte die Verbindung neu",
+  "app_okCancel"                                 : ["Ok,Cancel"]
+}

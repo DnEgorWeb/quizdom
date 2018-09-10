@@ -1,0 +1,11 @@
+﻿{
+  "dashboard_preseUpTo"                      : "Prices up to {0}{1}{0} are waiting for you!",
+  "dashboard_home"                           : "home",
+  "dashboard_quizDuell"                      : "Duel",
+  "dashboard_invitationsAnd"                 : "{0} Invitations and",
+  "dashboard_publicDuels"                    : "Public duels",
+  "dashboard_areReady"                       : "Get ready!",
+  "dashboard_quizTournament"                 : "Tournament",
+  "dashboard_tournamentsAreReadyForYou"      : "{0} Tournaments are available for{1}you!",
+  "dashboard_theresNoTournamentsAtThisMoment": "More tournaments{0}willbe available soon"
+}

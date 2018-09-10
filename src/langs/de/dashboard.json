@@ -1,0 +1,11 @@
+{
+  "dashboard_preseUpTo"                      : "Spielen und {0}{1}{0} gewinnen!",
+  "dashboard_home"                           : "Home",
+  "dashboard_quizDuell"                      : "Quiz Duell",
+  "dashboard_invitationsAnd"                 : "{0} Einladungen und",
+  "dashboard_publicDuels"                    : "Öffentliche Duelle",
+  "dashboard_areReady"                       : "stehen bereit!",
+  "dashboard_quizTournament"                 : "Quiz Turnier",
+  "dashboard_tournamentsAreReadyForYou"      : "{0} Turniere stehen für{1}Dich bereit!",
+  "dashboard_theresNoTournamentsAtThisMoment": "Turniere sind in Kürze{0}wieder verfügbar"
+}

@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Univers';
+  src: url('fonts/UNIVERSE.TTF'); /* IE9 Compat Modes */
+}
+
+@font-face {
+  font-family: 'Univers-condensed';
+  src: url('fonts/Univers-Condensed-Medium.woff');
+}
+
+@font-face {
+  font-family: 'Franclin-gothic-demi';
+  src: url('fonts/FRADM.TTF');
+}
+
+@font-face {
+  font-family: 'Nasalization';
+  src: url('fonts/Nasaliza.ttf');
+}
+
+@font-face {
+  font-family: 'Aharoni';
+  src: url('fonts/AHRONBD.TTF'), url('fonts/AHRONBD.woff');
+}
+
+@font-face {
+  font-family: 'Corbel';
+  src: url('fonts/corbel.ttf');
+}
+
+@font-face {
+  font-family: 'Corbelb';
+  src: url('fonts/corbelb.ttf');
+}
+
+@font-face {
+  font-family: 'Overpass';
+  src: url('fonts/Overpass-Reg.ttf');
+}

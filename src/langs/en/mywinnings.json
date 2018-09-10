@@ -1,0 +1,33 @@
+﻿{
+  "mywinnings_thereAreNoProfitsYet"                                     : "There are no winnings yet",
+  "mywinnings_quickQuiz"                                                : "Quick Game",
+  "mywinnings_goOnPlayAndGetYourFirstWinnings"                          : "Go to {0}, games, and get your first winnings.",
+  "mywinnings_pricesUpToExpectYou"                                      : "Prices up to {0}{1}{2} are waiting for you!",
+  "mywinnings_clock"                                                    : "Clock",
+  "mywinnings_thereHasNotBeenARaffleYet"                                : "The drawing has not yet taken place",
+  "mywinnings_hereYouCanStillParticipate"                               : "Here you can participate!",
+  "mywinnings_myProfits"                                                : "My winnings",
+  "mywinnings_overviewProfits"                                          : "Overview {0} winnings",
+  "mywinnings_openGames"                                                : "Open{0}Games",
+  "mywinnings_raffleWinner"                                             : "Tombola{0}winner",
+  "mywinnings_won"                                                      : "Won",
+  "mywinnings_chooseYourWinnings"                                       : "Choose your winnings",
+  "mywinnings_congratulation"                                           : "CONGRATULATION",
+  "mywinnings_yourProfit"                                               : "Your profit!",
+  "mywinnings_inOrderForYourProfitToBeCreditedYouMustBeLoggedIn"        : "In order for your profit to be credited, you must be logged in.",
+  "mywinnings_register"                                                 : "REGISTER",
+  "mywinnings_login"                                                    : "LOGIN",
+  "mywinnings_doYouWantToChargeYourAccount"                             : "Do you want to charge your account?",
+  "mywinnings_youDoNotHaveEnoughBonusPoints"                            : "You do not have enough bonus points to start this game.Play more Quick Games to get more bonus points!",
+  "mywinnings_okCancel"                                                 : [
+    "OK",
+    "CANCEL"
+  ],
+  "mywinnings_yourChanceToWin"                                          : "your chance to win!",
+  "mywinnings_participationFee"                                         : "Participation fee {0}{1}",
+  "mywinnings_withOrMoreCorrectAnswersYouCanParticipateInThe"           : "With {0} or more correct answers, you can participate in the {1}.",
+  "mywinnings_megaRaffle"                                               : "MEGA raffle",
+  "mywinnings_forOrLessCorrectAnswersTheEntryFeeIsLostDoYouWantToRiskIt": "For {0} or less correct answers, the entry fee is lost. Do You want to risk it?",
+  "mywinnings_yes"                                                      : "yes",
+  "mywinnings_no"                                                       : "no"
+}

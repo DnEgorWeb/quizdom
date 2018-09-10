@@ -1,0 +1,19 @@
+{
+  "highscore_highscore"                      : "Highscore",
+  "highscore_ranking"                        : "Ranking",
+  "highscore_friends"                        : "Freunde",
+  "highscore_allPlayersTop100"               : "Alle Spieler{0}Top 100",
+  "highscore_myPosition"                     : "Meine Position",
+  "highscore_top100"                         : "Top 100",
+  "highscore_hometown"                       : "Heimatort",
+  "highscore_position"                       : "Position",
+  "highscore_rankingFriends"                 : "Ranking Freunde",
+  "highscore_rankingAllPlayers"              : "Ranking alle Spieler",
+  "highscore_world"                          : "World",
+  "highscore_champion"                       : "Champion",
+  "highscore_tournamentProfit"               : "Turnier Gewinn",
+  "highscore_resultsLists"                   : "ERGEBNIS LISTEN",
+  "highscore_tournamentClassWithoutGameLevel": "TURNIERKLASSE{0}OHNE{0}GAME LEVEL",
+  "highscore_tournamentClassWithGameLevel"   : "TURNIERKLASSE{0}MIT{0}GAME LEVEL",
+  "highscore_selection"                      : "Auswahl"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "highscore_highscore"        : "Highscore",
+  "highscore_ranking"          : "Ranking",
+  "highscore_friends"          : "Friends",
+  "highscore_allPlayersTop100" : "All the Players{0}Top 100",
+  "highscore_myPosition"       : "My Position",
+  "highscore_top100"           : "Top 100",
+  "highscore_hometown"         : "Home",
+  "highscore_position"         : "Position",
+  "highscore_rankingFriends"   : "Friends ranking",
+  "highscore_rankingAllPlayers": "All players ranking",
+  "highscore_world"            : "World",
+  "highscore_champion"         : "Champion"
+}

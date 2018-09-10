@@ -1,0 +1,23 @@
+﻿{
+  "login_reLogin"                              : "Log in again",
+  "login_attention"                            : "Attention",
+  "login_youMustFillOutEveryField"             : "You have to fill all fields",
+  "login_passwordYouEnteredIsNotValid"         : "Wrong password",
+  "login_with"                                 : "with",
+  "login_or"                                   : "or",
+  "login_eMail"                                : "E-MAIL",
+  "login_password"                             : "PASSWORD",
+  "login_send"                                 : "Send",
+  "login_forgotPassword"                       : "Forgot password",
+  "login_justClickHere"                        : "Click here",
+  "login_eMailAddress"                         : "E-Mail Address",
+  "login_pleaseEnterYourEMailAddress"          : "Please {0} enter",
+  "login_youNeedHelp"                          : "Need help?",
+  "login_emailYouEnteredIsNotValid"            : "E-Mail does not exist",
+  "login_youDoNotEnterNewPassword"             : "Enter new password",
+  "login_passwordTooShort"                     : "Password too short",
+  "login_passwordsDoNotMatch"                  : "Passwords do not match",
+  "login_newPassword"                          : "New password",
+  "login_pleaseEnter"                          : "Please {0}{1} enter",
+  "login_passwordMustContainMinimum8Characters": "Password must be at least 8 characters long"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26.6 30" style="enable-background:new 0 0 26.6 30;" xml:space="preserve">
+<style type="text/css">
+	.{{$ctrl.id}}{fill:{{$ctrl.fill}};}
+</style>
+<g>
+	<g>
+		<path ng-class="{ '{{$ctrl.id}}': true}" d="M22.5,12.7c-2.3,0-4.1-1.9-4.1-4.1h2.4c0,1,0.8,1.7,1.7,1.7c1,0,1.7-0.8,1.7-1.7c0-1-0.8-1.7-1.7-1.7H4.1
+			c-1,0-1.7,0.8-1.7,1.7c0,1,0.8,1.7,1.7,1.7c1,0,1.7-0.8,1.7-1.7h2.4c0,2.3-1.9,4.1-4.1,4.1C1.9,12.7,0,10.9,0,8.6s1.9-4.1,4.1-4.1
+			h18.3c2.3,0,4.1,1.9,4.1,4.1S24.8,12.7,22.5,12.7z"/>
+	</g>
+	<rect x="5.9" y="8.6" ng-class="{ '{{$ctrl.id}}': true}" width="2.4" height="21.4"/>
+	<rect x="10" y="8.6" ng-class="{ '{{$ctrl.id}}': true}" width="2.4" height="21.4"/>
+	<rect x="14.2" y="8.6" ng-class="{ '{{$ctrl.id}}': true}" width="2.4" height="21.4"/>
+	<rect x="18.3" y="8.6" ng-class="{ '{{$ctrl.id}}': true}" width="2.4" height="21.4"/>
+	<g>
+		<rect x="5.9" ng-class="{ '{{$ctrl.id}}': true}" width="14.9" height="2.4"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "sidemenu_myAccount"      : "Mein Konto",
+  "sidemenu_myProfits"      : "Meine Gewinne",
+  "sidemenu_tombola"        : "Tombola",
+  "sidemenu_coupons"        : "Gutscheine",
+  "sidemenu_shop"           : "Shop",
+  "sidemenu_myFriends"      : "Meine Freunde",
+  "sidemenu_toInviteFriends": "Freunde einladen",
+  "sidemenu_groups"         : "Gruppen",
+  "sidemenu_highscore"      : "Highscore",
+  "sidemenu_promoCode"      : "Promocode",
+  "sidemenu_myData"         : "Meine Daten",
+  "sidemenu_feedback"       : "Feedback",
+  "sidemenu_info"           : "Info",
+  "sidemenu_settings"       : "EINSTELLUNGEN",
+  "sidemenu_guest"          : "Gast"
+}

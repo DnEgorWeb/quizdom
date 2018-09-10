@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 39.7 30" style="enable-background:new 0 0 39.7 30;" xml:space="preserve">
+<style type="text/css">
+	.{{$ctrl.id}}{fill:{{$ctrl.fill}};}
+</style>
+<g>
+	<path ng-class="{ '{{$ctrl.id}}': true}" d="M39.7,28.8v-1.9H0v1.9c0,0,0,0.3,1.9,0.5l3,0.7h30l3-0.7C39.9,29.1,39.7,28.8,39.7,28.8z"/>
+	<path ng-class="{ '{{$ctrl.id}}': true}" d="M35.3,0.7C35.3,0.3,35,0,34.6,0H5.1C4.7,0,4.3,0.3,4.3,0.7v23.7h31V0.7z M31.3,21.4H8.4V3.4h22.9V21.4z"/>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "mylookfriends_default"                                       : "Standard",
+  "mylookfriends_privacyProtection"                             : "Privatsphäre Einstellung",
+  "mylookfriends_gameLevel"                                     : "Game Level",
+  "mylookfriends_standardThatSHowAllTheOtherPlayersSeeMe"       : "Standard: So sehen mich alle anderen Spieler.",
+  "mylookfriends_privateProtectionSelectionUnderSettingsSeeInfo": "Privatsphäre: Auswahl unter Einstellungen, siehe Info.",
+  "mylookfriends_firstName"                                     : "Vorname",
+  "mylookfriends_LastName"                                      : "Nachname",
+  "mylookfriends_username"                                      : "Nickname",
+  "mylookfriends_placeOfResidence"                              : "Wohnort",
+  "mylookfriends_standardView"                                  : "Ansicht Standard",
+  "mylookfriends_viewPrivateProtection"                         : "Ansicht Privatsphäre",
+  "mylookfriends_myProfileRepresentation"                       : "Meine Profil Darstellung"
+}

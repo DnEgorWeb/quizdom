@@ -1,0 +1,22 @@
+{
+  "myfriends_attention"                            : "Hinweis",
+  "myfriends_shouldYourFriendBeDeletedFromYourList": "Soll Dein Freund aus Deiner Liste gelöscht werden?",
+  "myfriends_yesNo"                                : "JA, NEIN",
+  "myfriends_myFriends"                            : "Meine Freunde",
+  "myfriends_addFavorites"                         : "Favoriten hinzufügen",
+  "myfriends_youHaveNotCreatedFriendsYet"          : "Du hast noch keine Freunde angelegt!",
+  "myfriends_approved"                             : "Freigegeben",
+  "myfriends_blocked"                              : "Blockiert",
+  "myfriends_favourite"                            : "Favorit",
+  "myfriends_deleteFriend"                         : "Freund löschen",
+  "myfrinds_friendIsNotInformed"                   : "Freund wird nicht informiert!",
+  "myfriends_addToFriends"                         : "Zu Freunde hinzufügen",
+  "myfriends_name"                                 : "Name",
+  "myfriends_place"                                : "Wohnort",
+  "myfriends_myFriendsAndBr"                       : "Meine{0}Freunde",
+  "myfriends_myFavorites"                          : "Meine{0}Favoriten",
+  "myfriends_allPlayers"                           : "Alle{0}Mitspieler",
+  "myfriends_chooseADuelOpponent"                  : "Wähle einen Duell-Gegner",
+  "myfriends_youCanInviteUpTo4Opponents"           : "Du kannst bis zu 4 Gegner einladen",
+  "myfriends_noMatchFound"                         : "Keinen Treffer gefunden!"
+}

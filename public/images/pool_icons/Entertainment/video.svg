@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_x2014_ëîé_x5F_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 30.9 30" style="enable-background:new 0 0 30.9 30;" xml:space="preserve">
+<style type="text/css">
+	.{{$ctrl.id}}{fill:{{$ctrl.fill}};}
+</style>
+<path ng-class="{ '{{$ctrl.id}}': true}" d="M28.8,0v1.7h-4V0H6.1v1.7h-4V0C0.9,0,0,0.9,0,2.1v25.9C0,29.1,0.9,30,2.1,30v-2h4v2h18.7v-2h4v2
+	c1.1,0,2.1-0.9,2.1-2.1V2.1C30.9,0.9,30,0,28.8,0z M6.1,24.5h-4v-4h4V24.5z M6.1,16.9h-4v-4h4V16.9z M6.1,9.3h-4v-4h4V9.3z
+	 M11.8,20.8v-12l10.4,6L11.8,20.8z M28.8,24.5h-4v-4h4V24.5z M28.8,16.9h-4v-4h4V16.9z M28.8,9.3h-4v-4h4V9.3z"/>
+</svg>

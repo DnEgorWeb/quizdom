@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ñëîé_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 30.3 30" style="enable-background:new 0 0 30.3 30;" xml:space="preserve">
+<style type="text/css">
+	.{{$ctrl.id}}{fill:{{$ctrl.fill}};}
+</style>
+<g>
+	<g>
+		<g>
+			<rect x="4.2" y="11.2" ng-class="{ '{{$ctrl.id}}': true}" width="3.1" height="13"/>
+			<rect x="3.2" y="23.8" ng-class="{ '{{$ctrl.id}}': true}" width="4.9" height="1.4"/>
+			<rect x="3.2" y="10.5" ng-class="{ '{{$ctrl.id}}': true}" width="4.9" height="1.4"/>
+		</g>
+		<g>
+			<rect x="13.5" y="11.2" ng-class="{ '{{$ctrl.id}}': true}" width="3.1" height="13"/>
+			<rect x="12.5" y="23.8" ng-class="{ '{{$ctrl.id}}': true}" width="4.9" height="1.4"/>
+			<rect x="12.5" y="10.5" ng-class="{ '{{$ctrl.id}}': true}" width="4.9" height="1.4"/>
+		</g>
+		<g>
+			<rect x="22.8" y="11.2" ng-class="{ '{{$ctrl.id}}': true}" width="3.1" height="13"/>
+			<rect x="21.9" y="23.8" ng-class="{ '{{$ctrl.id}}': true}" width="4.9" height="1.4"/>
+			<rect x="21.9" y="10.5" ng-class="{ '{{$ctrl.id}}': true}" width="4.9" height="1.4"/>
+		</g>
+	</g>
+	<rect x="1.4" y="24.8" ng-class="{ '{{$ctrl.id}}': true}" width="26.9" height="2.1"/>
+	<rect x="1.4" y="8.6" ng-class="{ '{{$ctrl.id}}': true}" width="26.9" height="2.1"/>
+	<rect y="27.6" ng-class="{ '{{$ctrl.id}}': true}" width="30.3" height="2.4"/>
+	<polygon ng-class="{ '{{$ctrl.id}}': true}" points="0,7.2 14.8,0 29.6,7.2 29.6,7.8 0,7.8 	"/>
+</g>
+</svg>

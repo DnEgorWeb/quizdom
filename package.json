@@ -1,0 +1,41 @@
+{
+  "name": "f4m",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "country-list": "^1.1.0",
+    "crypto-js": "^3.1.9-1",
+    "gulp": "^3.9.1",
+    "gulp-html-beautify": "^1.0.1",
+    "jssha": "^2.3.1",
+    "moment": "^2.19.1",
+    "nuka-carousel": "^3.0.0",
+    "numeral": "^2.0.6",
+    "rc-checkbox": "^2.1.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-facebook-login": "^3.7.2",
+    "react-localization": "^1.0.4",
+    "react-progressbar": "^15.4.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.0.15",
+    "react-selectize": "^3.0.1",
+    "react-slick": "^0.15.4",
+    "react-transition-group": "^1.1.2",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "replace-in-file": "^3.4.0",
+    "resize-image": "0.0.4",
+    "styled-components": "^3.2.3",
+    "zip-folder": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

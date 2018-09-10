@@ -1,0 +1,16 @@
+﻿{
+  "myfriends_attention"                            : "Attention",
+  "myfriends_shouldYourFriendBeDeletedFromYourList": "Do you want to delete your friend?",
+  "myfriends_yesNo"                                : "YES,NO",
+  "myfriends_myFriends"                            : "My Friends",
+  "myfriends_addFavorites"                         : "Add to favorites",
+  "myfriends_youHaveNotCreatedFriendsYet"          : "No friends in your list!",
+  "myfriends_approved"                             : "Share",
+  "myfriends_blocked"                              : "Blocked",
+  "myfriends_favourite"                            : "Favorite",
+  "myfriends_deleteFriend"                         : "Delete a friend",
+  "myfrinds_friendIsNotInformed"                   : "Friend will not be informed!",
+  "myfriends_addToFriends"                         : "Add to friends",
+  "myfriends_name"                                 : "name",
+  "myfriends_place"                                : "place"
+}

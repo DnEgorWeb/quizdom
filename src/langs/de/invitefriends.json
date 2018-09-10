@@ -1,0 +1,18 @@
+{
+  "invite_toInviteFriends"                                    : "Freunde einladen",
+  "invite_inviteHereFriendsAgainstWhomOrWithWhomYouWantToPlay": "LADE HIER FREUNDE EIN, gegen die oder mit denen Du spielen möchtest",
+  "invite_invitePer"                                          : "Einladen per",
+  "invite_invitePeople"                                       : "Freunde einladen",
+  "invite_informationTextMaybeBigMaybeLittle"                 : "Lade Deine Freunde per E-Mail ein",
+  "invite_send"                                               : "Senden",
+  "invite_addEmail"                                           : "E-Mail hinzufügen",
+  "invite_inviteText"                                         : "Einladungstext",
+  "invite_attention"                                          : "Hinweis",
+  "invite_success"                                            : "Erfolgreich",
+  "invite_ok"                                                 : "Ok",
+  "invite_error"                                              : "Fehler",
+  "invite_whatsappIsOnlySupportedInTheHybridApplication"      : "WhatsApp wird nur in der mobilen App unterstützt.",
+  "invite_areYouSure"                                         : "Bist Du sicher?",
+  "invite_okCancel"                                           : ["Ok,Cancel"],
+  "invite_thisEmailAddressAlreadyExists"                      : "Diese Emailadresse existiert bereits"
+}

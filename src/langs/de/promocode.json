@@ -1,0 +1,11 @@
+﻿{
+  "promocode_attention"                                   : "Hinweis",
+  "promocode_codeInvalidPleaseCheckYourEntriesAndTryAgain": "Code ungültig. Bitte prüfe deine Eingabe und versuche es nochmal",
+  "promocode_congratulationsCodeWasRedeemedSuccessfully"  : "Glückwunsch. Code Eingabe war erfolgreich",
+  "promocode_promoCode"                                   : "Promocode",
+  "promocode_enterPromocode"                              : "PROMOCODE EINGEBEN",
+  "promocode_send"                                        : "Senden",
+  "promocode_orScanTheQrCode"                             : "oder QR-Code scannen",
+  "promocode_scannerIsUnavailable"                        : "Scanner ist nicht verfügbar",
+  "promocode_scan"                                        : "SCAN"
+}

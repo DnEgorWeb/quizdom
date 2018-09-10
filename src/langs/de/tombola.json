@@ -1,0 +1,13 @@
+{
+  "tombola_tombola"                      : "Tombola",
+  "tombola_tombolaInfo"                  : "Tombola Info",
+  "tombola_myLoose"                      : "Meine Lose",
+  "tombola_chanceOfWinning"              : "Gewinnchance",
+  "tombola_looseInGame"                  : "Im Spiel vorhanden",
+  "tombola_prev"                         : "ZURÜCK",
+  "tombola_next"                         : "WEITER",
+  "tombola_clock"                        : "Uhr",
+  "tombola_tickets"                      : "{0} Tickets",
+  "tombola_doYouWantToExchangeForTickets": "Möchtest Du {0} {1} in Lose tauschen?",
+  "tombola_okCancel"                     : ["Ok","Cancel"]
+}

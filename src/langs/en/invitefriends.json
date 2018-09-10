@@ -1,0 +1,11 @@
+﻿{
+  "invite_toInviteFriends"                                    : "Invite friends",
+  "invite_inviteHereFriendsAgainstWhomOrWithWhomYouWantToPlay": "INVITE FRIENDS HERE",
+  "invite_invitePer"                                          : "Invite by",
+  "invite_invitePeople"                                       : "Invite friends",
+  "invite_informationTextMaybeBigMaybeLittle"                 : "Wrong information text",
+  "invite_send"                                               : "Send",
+  "invite_addEmail"                                           : "Add E-Mail",
+  "invite_inviteText"                                         : "Invitation text",
+  "invite_thisEmailAddressAlreadyExists"                      : "This email address already exists"
+}

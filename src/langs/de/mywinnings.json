@@ -1,0 +1,23 @@
+﻿{
+  "mywinnings_thereAreNoProfitsYet"                             : "Es liegen noch keine Gewinne vor.",
+  "mywinnings_quickQuiz"                                        : "Schnelles Spiel",
+  "mywinnings_goOnPlayAndGetYourFirstWinnings"                  : "Gehe auf {0}, spiele und hole Dir Deine ersten Gewinne.",
+  "mywinnings_pricesUpToExpectYou"                              : "Preise bis zu {0}{1}{0} erwarten Dich!",
+  "mywinnings_clock"                                            : "Uhr",
+  "mywinnings_thereHasNotBeenARaffleYet"                        : "Es hat noch keine Verlosung stattgefunden.",
+  "mywinnings_hereYouCanStillParticipate"                       : "Hier kannst Du noch teilnehmen!",
+  "mywinnings_myProfits"                                        : "Meine Gewinne",
+  "mywinnings_overviewProfits"                                  : "Übersicht {0} Gewinne",
+  "mywinnings_openGames"                                        : "Offene{0}Gewinnspiele",
+  "mywinnings_raffleWinner"                                     : "Tombola{0}Gewinner",
+  "mywinnings_won"                                              : "Gewonnen",
+  "mywinnings_chooseYourWinnings"                               : "Wähle Dein Gewinnspiel",
+  "mywinnings_congratulation"                                   : "GLÜCKWUNSCH",
+  "mywinnings_yourProfit"                                       : "Dein Gewinn!",
+  "mywinnings_inOrderForYourProfitToBeCreditedYouMustBeLoggedIn": "Damit Dein Gewinn gutgeschrieben wird, muss Du angemeldet sein.",
+  "mywinnings_register"                                         : "REGISTER",
+  "mywinnings_login"                                            : "LOGIN",
+  "mywinnings_doYouWantToChargeYourAccount"                     : "Möchten Sie Ihr Konto aufladen?",
+  "mywinnings_youDoNotHaveEnoughBonusPoints"                    : "Du hast nicht genügend Bonuspunkte, um dieses Spiel zu starten. Spiel mehr Quick Games, um mehr Bonuspunkte zu erhalten!",
+  "mywinnings_okCancel"                                         : [ "OK", "CANCEL" ]
+}

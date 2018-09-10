@@ -1,0 +1,11 @@
+﻿{
+  "promocode_attention"                                   : "Attention",
+  "promocode_codeInvalidPleaseCheckYourEntriesAndTryAgain": "Invalid code. Please try again",
+  "promocode_congratulationsCodeWasRedeemedSuccessfully"  : "Congratulations. Code entry was successful",
+  "promocode_promoCode"                                   : "Promocode",
+  "promocode_enterPromocode"                              : "ENTER PROMOCODE",
+  "promocode_send"                                        : "Send",
+  "promocode_orScanTheQrCode"                             : "or scan QR-Code",
+  "promocode_scannerIsUnavailable"                        : "Scanner is not available",
+  "promocode_scan"                                        : "SCAN"
+}

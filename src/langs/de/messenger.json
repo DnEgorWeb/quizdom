@@ -1,0 +1,5 @@
+{
+  "messenger_attention"                        : "Hinweis",
+  "messenger_doYouReallyWantToDeleteTheMessage": "Möchtest Du die Nachricht wirklich löschen?",
+  "messenger_okCancel"                         : ["Ok,Cancel"]
+}

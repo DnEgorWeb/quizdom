@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20.9 30" style="enable-background:new 0 0 20.9 30;" xml:space="preserve">
+<style type="text/css">
+	.{{$ctrl.id}}{fill:{{$ctrl.fill}};}
+</style>
+<g>
+	<path ng-class="{ '{{$ctrl.id}}': true}" d="M18.7,2.3c0,0.2-0.2,0.4-0.5,0.4H2.7c-0.3,0-0.5-0.2-0.5-0.4V0.4C2.2,0.2,2.4,0,2.7,0h15.6
+		c0.3,0,0.5,0.2,0.5,0.4V2.3z"/>
+	<path ng-class="{ '{{$ctrl.id}}': true}" d="M14.2,29.5c0,0.3-0.2,0.5-0.5,0.5H7.2c-0.3,0-0.5-0.2-0.5-0.5v-1.7c0-0.3,0.2-0.5,0.5-0.5h6.5
+		c0.3,0,0.5,0.2,0.5,0.5V29.5z"/>
+	<g>
+		<path ng-class="{ '{{$ctrl.id}}': true}" d="M1.1,17h3h1v1v1.7h3v-1.7v-1h1h3h1v1v1.7h3v-1.7v-1h1h3h0.5c-1.2-3.2-3.9-4.8-3.9-8c0-6.7,1.8-9,1.8-9H2.7
+			c0,0,1.8,2.3,1.8,9c0,3.2-2.6,4.7-3.9,8H1.1z M20.8,18.9v0.7h0.1C20.9,19.4,20.8,19.2,20.8,18.9z M20.8,20.7h-1v-1v-1.7h-3v1.7v1
+			h-1h-3h-1v-1v-1.7H9v1.7v1H8H5H4v-1v-1.7h-3v1.7v1h-1H0c0.1,5.7,7.3,7.9,10.5,7.9c3.1,0,10.3-2.5,10.5-7.9H20.8z M0.1,19.2
+			c0,0.1,0,0.3,0,0.4h0V19.2z"/>
+	</g>
+	<path ng-class="{ '{{$ctrl.id}}': true}" d="M18.2,0c0,0-1.8,2.3-1.8,9c0,4.2,4.5,5.5,4.5,11.5c0,5.5-7.3,8-10.5,8c-3.2,0-10.5-2.2-10.5-8
+		c0-6,4.5-7.4,4.5-11.5c0-6.7-1.8-9-1.8-9H18.2z"/>
+</g>
+</svg>

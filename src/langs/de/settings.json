@@ -1,0 +1,15 @@
+﻿{
+  "settings_viewInTheOfficialArea"   : "Ansicht im öffentlichen Bereich",
+  "settings_settings"                : "Eintellungen",
+  "settings_logout"                  : "Logout",
+  "settings_login"                   : "login",
+  "settings_view"                    : "ANSICHT",
+  "settings_default"                 : "STANDARD",
+  "settings_privateProtection"       : "PRIVATSPHÄRE",
+  "settings_availableLanguageDisplay": "VERFÜGBARE SPRACHANZEIGE",
+  "settings_pushNotification"        : "Push Notification",
+  "settings_firstName"               : "Vorname",
+  "settings_surname"                 : "Nachname",
+  "settings_username"                : "Nickname",
+  "settings_placeOfResidence"        : "Wohnort"
+}
